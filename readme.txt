@@ -1,0 +1,9 @@
+[File list]
+readme.txt: 说明文件
+shadow.py: 配置文件
+ondb.db: sqlite3数据库
+switch.py: 设备操作类函数库
+ondb.py: 数据库操作类函数库
+manager.py: 运营维护类函数库
+operation.py: 运营脚本（按需执行）
+maintain.py: 维护脚本（定期执行）
